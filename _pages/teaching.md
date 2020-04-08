@@ -4,7 +4,7 @@ author_profile: true
 permalink: /teaching/
 ---
 
-<div id="toptitle">
+<div id="toptitle" text-decoration : line-through;>
 <h1>Teaching</h1>
 </div>
 <h1>Undergraduate Course</h1>
