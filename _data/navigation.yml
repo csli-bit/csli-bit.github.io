@@ -3,13 +3,13 @@ main:
   - title: "Home"
     url: https://csli-bit.github.io/
   - title: "Publication"
-    url: https://csli-bit.github.io/research/
+    url: https://csli-bit.github.io/publication/
   - title: "Project"
-    url: https://csli-bit.github.io/CV/
+    url: https://csli-bit.github.io/project/
   - title: "Teaching"
-    url: https://csli-bit.github.io/blog/
+    url: https://csli-bit.github.io/teaching/
   - title: "Award&Service"
-    url: https://csli-bit.github.io/categories/
+    url: https://csli-bit.github.io/AwardService/
   - title: "Member"
     url: https://csli-bit.github.io/member/
 
