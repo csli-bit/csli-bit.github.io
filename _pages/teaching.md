@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 permalink: /teaching/
 ---
-<td id="layout-content">
+
 <div id="toptitle">
 <h1>Teaching</h1>
 </div>
@@ -14,4 +14,4 @@ permalink: /teaching/
 <li><p>Recommender System (2020 Spring)</p>
 </li>
 </ul>
-</td>
+
