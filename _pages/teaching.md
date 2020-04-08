@@ -7,7 +7,7 @@ permalink: /teaching/
 <div id="toptitle" >
 <h1>Teaching</h1>
 </div>
-<hr>
+<hr style="width:50%" />
 <h1>Undergraduate Course</h1>
   <ul>
 <li><p>Data Mining (2018 Spring, 2019 Spring, 2020 Spring)</p>
