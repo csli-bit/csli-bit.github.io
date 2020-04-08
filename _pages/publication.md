@@ -1,7 +1,6 @@
 ---
 author_profile: true
 permalink: /publication/
-classes: wide
 ---
 **Journal Paper**
 
