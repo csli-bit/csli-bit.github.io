@@ -300,3 +300,5 @@ defaults:
       comments: true
       sidebar:
         nav: "MachineLearning"
+
+theme: jekyll-theme-time-machine
