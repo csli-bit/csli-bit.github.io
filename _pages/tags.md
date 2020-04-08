@@ -1,6 +1,7 @@
 ---
-layout: tags
-title: Tagsaaaa
+layout: archive
+author_profile: true
+classes: wide
 permalink: /member/
 ---
-aaaaaa
+aaa
