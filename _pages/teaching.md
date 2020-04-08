@@ -4,9 +4,10 @@ author_profile: true
 permalink: /teaching/
 ---
 
-<div id="toptitle" text-decoration : line-through;>
+<div id="toptitle" >
 <h1>Teaching</h1>
 </div>
+<hr>
 <h1>Undergraduate Course</h1>
   <ul>
 <li><p>Data Mining (2018 Spring, 2019 Spring, 2020 Spring)</p>
