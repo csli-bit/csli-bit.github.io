@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Home"
-    url: https://wei2624.github.io/
+    url: https://csli-bit.github.io/
   - title: "CV"
-    url: https://wei2624.github.io/CV/
+    url: https://csli-bit.github.io/CV/
   - title: "Research"
-    url: https://wei2624.github.io/research/
+    url: https://csli-bit.github.io/research/
   - title: "Blog"
-    url: https://wei2624.github.io/blog/
+    url: https://csli-bit.github.io/blog/
   - title: "Categories"
-    url: https://wei2624.github.io/categories/
+    url: https://csli-bit.github.io/categories/
   - title: "Tags"
-    url: https://wei2624.github.io/tags/
+    url: https://csli-bit.github.io/tags/
 
 
 MachineLearning:
