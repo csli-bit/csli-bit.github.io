@@ -1,5 +1,8 @@
 ---
+layout: archive
 author_profile: true
+toc: true
+toc_sticky: true
 permalink: https://csli-bit.github.io/publication/
 classes: wide
 ---
