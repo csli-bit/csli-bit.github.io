@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <div id="toptitle" >
-<h1>Teaching</h1>
+<h2>Teaching</h2>
 </div>
 <hr style="width:50%" />
 <h1>Undergraduate Course</h1>
