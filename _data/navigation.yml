@@ -1,21 +1,17 @@
 # main links
 main:
   - title: "Home"
-    url: https://wei2624.github.io/
-  - title: "CV"
-    url: https://wei2624.github.io/CV/
-  - title: "Research"
-    url: https://wei2624.github.io/research/
-  - title: "Blog"
-    url: https://wei2624.github.io/blog/
-  - title: "Categories"
-    url: https://wei2624.github.io/categories/
-  - title: "Tags"
-    url: https://wei2624.github.io/tags/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: https://csli-bit.github.io/
+  - title: "Publication"
+    url: https://csli-bit.github.io/publication/
+  - title: "Projects"
+    url: https://csli-bit.github.io/project/
+  - title: "Teaching"
+    url: https://csli-bit.github.io/teaching/
+  - title: "Award & Services"
+    url: https://csli-bit.github.io/award_service/
+  - title: "Member"
+    url: https://csli-bit.github.io/member/
 
 
 MachineLearning:
