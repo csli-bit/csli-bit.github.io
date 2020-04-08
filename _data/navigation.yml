@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: https://csli-bit.github.io/
-  - title: "Award"
-    url: https://csli-bit.github.io/CV/
   - title: "Publication"
     url: https://csli-bit.github.io/research/
-  - title: "service"
+  - title: "Project"
+    url: https://csli-bit.github.io/CV/
+  - title: "Teaching"
     url: https://csli-bit.github.io/blog/
-  - title: "aaa"
+  - title: "Award&Service"
     url: https://csli-bit.github.io/categories/
-  - title: "bbb"
+  - title: "Member"
     url: https://csli-bit.github.io/tags/
 
 
