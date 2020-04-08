@@ -1,6 +1,5 @@
 ---
 author_profile: true
-title: Blog
 permalink: /teaching/
 ---
 <td id="layout-content">
