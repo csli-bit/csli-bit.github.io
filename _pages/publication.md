@@ -2,6 +2,7 @@
 layout: archive
 author_profile: true
 title: Research
+classes: wide
 permalink: /research/
 ---
 
