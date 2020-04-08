@@ -1,5 +1,6 @@
 ---
 layout: tags
-title: Tags
-permalink: /tags/
+title: Tagsaaaa
+permalink: /member/
 ---
+aaaaaa
