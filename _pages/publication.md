@@ -1,6 +1,6 @@
 ---
 author_profile: true
-permalink: /publication/
+permalink: https://csli-bit.github.io/publication/
 classes: wide
 ---
 **Journal Paper**
