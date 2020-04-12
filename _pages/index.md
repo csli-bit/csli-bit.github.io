@@ -29,3 +29,4 @@ One paper on deep multi-label learning was published by IEEE T-NNLS </font> [Lin
 One paper on joint active learning and feature selection was published by IEEE T-PAMI </font> [Link](https://ieeexplore.ieee.org/document/8367893){: .btn .btn--info .btn--small} <br>
 [2019/02](#link){: .btn .btn--success .btn--small} <font size="4">One paper on online multi-task learning was published by IEEE T-PAMI </font> [link](https://ieeexplore.ieee.org/document/8260965){: .btn .btn--info .btn--small} <br>
 [2018/11](#link){: .btn .btn--success .btn--small} <font size="4">Three papers on action detection, video super-resolution,  similarity learning were accepted by AAAI 2019<br>
+[2018/6](#link){: .btn .btn--success .btn--small} <font size="4">I was awarded by ACM Chengdu Rising Star Award (only one across Chengdu)
