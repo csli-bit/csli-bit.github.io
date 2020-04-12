@@ -16,10 +16,10 @@ If you are interested in machine learning, computer vision, or data mining, welc
 **Email:** lcs(at)bit.edu.cn
 
 
-### News
+### Recent News
 
-[2018](#link){: .btn .btn--success .btn--small} My [Machine Learning notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/) is reported on the Chinese AI media: [Synced](https://syncedreview.com/about-us/). [Link](https://mp.weixin.qq.com/s/gVu3rXId5nEzJ_ZDRzAUJQ){: .btn .btn--info .btn--small}  
-[2018](#link){: .btn .btn--success .btn--small} I did a presentation of a poster titled "Enhanced Recurrent Neural Network Semantic Labeling with Point Cloud Processing" at Northeast Robotics Colloquium (NERC) 2018. [Poster]({{ site.url }}/download/Enhanced Recurrent Neural Network Semantic Labeling with Point Cloud Processing.pdf){: .btn .btn--info .btn--small}[Demo](https://www.youtube.com/watch?v=T7zllZbtm2A){: .btn .btn--info .btn--small}  
+[2020/01](#link){: .btn .btn--success .btn--small} One paper on weakly action detection was accepted by IEEE TNNLS 
+[20119/11](#link){: .btn .btn--success .btn--small} Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 
 [2018](#link){: .btn .btn--success .btn--small} Homepage Online!
 
 ### Blog
