@@ -6,11 +6,12 @@ classes: wide
 permalink: /
 ---
 
-My name is Wei Zhang(in Chinese: 张威). I am a graduate student at [Columbia University](https://www.columbia.edu/), working with Professor [John Paisley](http://www.columbia.edu/~jwp2128/). I am also a member of [Data Science Institute](https://datascience.columbia.edu/) at Columbia University. I obtained my B.S. in Electrical Engineering of Honours, Co-operative Program from [University of Waterloo](https://uwaterloo.ca/) in Canada, where I worked with Professor [Xuemin(Sherman) Shen](http://bbcr.uwaterloo.ca/~xshen/). I then obtained my M.S. in Electrical Engineering of Honors Program from Columbia University, where I worked with Professor [Shih-Fu Chang](http://www.ee.columbia.edu/~sfchang/) and Professor [Peter Allen](https://www.cs.columbia.edu/~allen/). 
+Changsheng Li received the BE degree from the University of Electronic Science and Technology of China (UESTC), in 2008 and the PhD degree  in pattern recognition and intelligent system from the Institute of Automation, Chinese Academy of Sciences, in 2013. He is currently a Full Research Professor from the University of Electronic Science and Technology of China. He is also a director of Youedata AI Research lab (YAIR). During pursuing his PhD, he once studied as a research assistant from The Hong Kong Polytechnic University in 2009-2010. After obtaining his PhD, he worked with IBM Research-China and iDST, Alibaba Group, respectively. His research interests include machine learning, data mining, and computer vision. He has more than 30 refereed publications in international journals and conferences, including T-PAMI, T-IP, T-NNLS, T-C, PR, CVPR, AAAI, IJCAI, CIKM, MM, ICMR, etc.
+
 
 My research interests are Bayesian machine learning and deep learning, robot learning, computer vision and precision medicine. **Feel free to contact me for collaboration opportunity if you are also interested in those fields.** 
 
-**Email:** wz2363(at)columbia.edu.
+**Email:** lcs(at)bit.edu.cn
 
 
 ### News
