@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Short Bio
+title: <font size="4"> Short Bio </font>
 author_profile: true
 classes: wide
 permalink: /
