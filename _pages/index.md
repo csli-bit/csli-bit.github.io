@@ -18,25 +18,16 @@ If you are interested in machine learning, computer vision, or data mining, welc
 
 ### Recent News
 
-[2020/01](#link){: .btn .btn--success .btn--small} <font size="3">
+[2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on weakly action detection was accepted by IEEE TNNLS </font> <br>
-[2019/11](#link){: .btn .btn--success .btn--small} Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 <br>
-[2018](#link){: .btn .btn--success .btn--small} Homepage Online!
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
+[2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
+One paper on weakly action detection was accepted by IEEE TNNLS </font> <br>
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
+[2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
+One paper on weakly action detection was accepted by IEEE TNNLS </font> <br>
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
+[2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
+One paper on weakly action detection was accepted by IEEE TNNLS </font> <br>
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
 
-### Blog
-
-I write a tech blog [Machine Learning notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/). I summarize what I have learned in several machine learning courses. 
-
-### Other information about me
-
-* I love to play basketball with friends during weekeneds. I also work out in order to improve my basketball skills. 
-
-* My favorite basketball player is Kobe Bryant. 
-
-* Some other sports that I play: skiing,badminton,soccer. 
-
-* I love reading autobiography like Steve Jobs and Ang Lee. 
-
-### About my homepage
-
-I love to write blogs on technical contents. I will mainly post tech summary in my Blog section. The best way to keep track with my update is to subscribe it. Please feel free to comment at the bottom or use it for your need. But please cite it when you distribute it.
