@@ -22,7 +22,9 @@ One paper on fundus image analysis was published by IEEE T-BME </font> [link](ht
 [2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on weakly action detection was accepted by IEEE T-NNLS </font> [link](https://ieeexplore.ieee.org/document/8967204/){: .btn .btn--info .btn--small}<br>
 [2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
-[2019/11](#link){: .btn .btn--success .btn--small} <font size="4"> An invited talk on "Active learning and feature learning: a connection between them" was given in the forum of Big Data and Earth Science, Zhejiang</font> <br>
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4"> An invited talk was given in the forum of Big Data and Earth Science, Zhejiang, China</font> <br>
+[2019/06](#link){: .btn .btn--success .btn--small} <font size="4">
+One paper on deep multi-label learning was published by IEEE T-NNLS </font> [Link](https://ieeexplore.ieee.org/document/8766125){: .btn .btn--info .btn--small} <br>
 [2019/06](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on joint active learning and feature selection was published by IEEE T-PAMI </font> [Link](https://ieeexplore.ieee.org/document/8367893){: .btn .btn--info .btn--small} <br>
 [2019/02](#link){: .btn .btn--success .btn--small} <font size="4">One paper on online multi-task learning was published by IEEE T-PAMI </font> [link](https://ieeexplore.ieee.org/document/8260965){: .btn .btn--info .btn--small} <br>
