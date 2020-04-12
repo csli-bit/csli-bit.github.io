@@ -18,7 +18,7 @@ If you are interested in machine learning, computer vision, or data mining, welc
 
 ### Recent News
 
-[2020/01](#link){: .btn .btn--success .btn--small} <font size="5" color="blue">
+[2020/01](#link){: .btn .btn--success .btn--small} <font size="3">
 One paper on weakly action detection was accepted by IEEE TNNLS </font> <br>
 [2019/11](#link){: .btn .btn--success .btn--small} Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 <br>
 [2018](#link){: .btn .btn--success .btn--small} Homepage Online!
