@@ -1,15 +1,17 @@
 ---
 layout: home
-title: About
+title: Short Bio
 author_profile: true
 classes: wide
 permalink: /
 ---
 
-Changsheng Li received the BE degree from the University of Electronic Science and Technology of China (UESTC), in 2008 and the PhD degree  in pattern recognition and intelligent system from the Institute of Automation, Chinese Academy of Sciences, in 2013. He is currently a Full Research Professor from the University of Electronic Science and Technology of China. He is also a director of Youedata AI Research lab (YAIR). During pursuing his PhD, he once studied as a research assistant from The Hong Kong Polytechnic University in 2009-2010. After obtaining his PhD, he worked with IBM Research-China and iDST, Alibaba Group, respectively. His research interests include machine learning, data mining, and computer vision. He has more than 30 refereed publications in international journals and conferences, including T-PAMI, T-IP, T-NNLS, T-C, PR, CVPR, AAAI, IJCAI, CIKM, MM, ICMR, etc.
+Dr. Changsheng Li is a tenure-track professor with School of Computer Science and Technology, Beijing Intitute of Technology (BIT). He received the BE degree from the University of Electronic Science and Technology of China (UESTC) in 2008 and the PhD degree  in pattern recognition and intelligent system from the Institute of Automation, Chinese Academy of Sciences in 2013. Prior to joining BIT, he has worked with IBM Research-China and iDST, Alibaba Group, and University of Electronic Science and Technology of China (UESTC), respectively. His research interests include machine learning, data mining, and computer vision. He has published over 50 papers in top-tier international journals and conferences, including T-PAMI, T-IP, T-NNLS, T-C, PR, CVPR, AAAI, IJCAI, CIKM, MM, ICMR, etc. He authored 10+ filed US patents in the last five years. 
+He served as an Associate Editor for IEEE ACCESS (IF=4.098, 2018) and Program Committee for over 10 top-tier conferences including AAAI, IJCAI, CVPR, ICCV, ECCV, NIPS etc. 
 
 
-My research interests are Bayesian machine learning and deep learning, robot learning, computer vision and precision medicine. **Feel free to contact me for collaboration opportunity if you are also interested in those fields.** 
+I am looking for highly self-motivated undergraduates, Master and PhD candidates to work with me.
+If you are interested in machine learning, computer vision, data mining, welcome to send me a resume via lcs(at)bit.edu.cn.
 
 **Email:** lcs(at)bit.edu.cn
 
