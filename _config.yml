@@ -4,7 +4,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-CN"
 title                    : "Li's Homepage"
 title_separator          : "-"
 name                     : "Changsheng Li"
