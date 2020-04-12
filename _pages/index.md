@@ -21,6 +21,8 @@ If you are interested in machine learning, computer vision, or data mining, welc
 [2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on weakly action detection was accepted by IEEE TNNLS </font> [link](https://ieeexplore.ieee.org/document/8967204/)<br>
 [2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4"> An invited talk on ``Active learning and feature learning: A connection between them'' was given in the forum of Big Data and Earth Science, Zhejiang</font> <br>
+[2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
 [2019/06](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on joint active learning and feature selection was published by IEEE TPAMI </font> [Link](https://ieeexplore.ieee.org/document/8367893){: .btn .btn--info .btn--small} <br>
 [2019/02](#link){: .btn .btn--success .btn--small} <font size="4">One paper on online multi-task learning was published by IEEE TPAMI </font> [link](https://ieeexplore.ieee.org/document/8260965) <br>
