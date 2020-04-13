@@ -10,7 +10,7 @@ Dr. Changsheng Li is a tenure-track professor with School of Computer Science an
 He served as an Associate Editor for IEEE ACCESS (IF=4.098, 2018) and Program Committee for over 10 top-tier conferences including AAAI, IJCAI, CVPR, ICCV, ECCV, NIPS etc. </font>
 
 
-<font color="red" size="4"> I am looking for highly self-motivated undergraduates, Master and PhD candidates to work with me.
+<font color="red" size="4">I am looking for highly self-motivated undergraduates, Master and PhD candidates to work with me.
 If you are interested in machine learning, computer vision, or data mining, welcome to send me a resume via my email.</font>
 
 **Email:** lcs(at)bit.edu.cn
