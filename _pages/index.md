@@ -7,11 +7,10 @@ permalink: /
 ---
 <font size="4">
 Dr. Changsheng Li is a tenure-track professor with School of Computer Science and Technology, Beijing Intitute of Technology (BIT). He received the BE degree from the University of Electronic Science and Technology of China (UESTC) in 2008 and the PhD degree  in pattern recognition and intelligent system from the Institute of Automation, Chinese Academy of Sciences in 2013. Prior to joining BIT, he has worked with IBM Research-China and iDST, Alibaba Group, and University of Electronic Science and Technology of China (UESTC), respectively. His research interests include machine learning, data mining, and computer vision. He has published over 50 papers in top-tier international journals and conferences, including T-PAMI, T-IP, T-NNLS, T-C, PR, CVPR, AAAI, IJCAI, CIKM, MM, ICMR, etc. He authored 10+ filed US patents in the last five years. 
-He served as an Associate Editor for IEEE ACCESS (IF=4.098, 2018) and Program Committee for over 10 top-tier conferences including AAAI, IJCAI, CVPR, ICCV, ECCV, NIPS etc. </font><br>
-
+He served as an Associate Editor for IEEE ACCESS (IF=4.098, 2018) and Program Committee for over 10 top-tier conferences including AAAI, IJCAI, CVPR, ICCV, ECCV, NIPS etc. 
 
 <font color="red" size="4">I am looking for highly self-motivated undergraduates, Master and PhD candidates to work with me.
-If you are interested in machine learning, computer vision, or data mining, welcome to send me a resume via my email.</font>
+If you are interested in machine learning, computer vision, or data mining, welcome to send me a resume via my email.</font></font>
 
 **Email:** lcs(at)bit.edu.cn
 
