@@ -17,6 +17,8 @@ If you are interested in machine learning, computer vision, or data mining, welc
 ### Recent News
 [2020/02](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on fundus image analysis was published by IEEE T-BME </font> [link](https://ieeexplore.ieee.org/document/8698800){: .btn .btn--info .btn--small}<br>
+[2020/02](#link){: .btn .btn--success .btn--small} <font size="4">
+One paper on fundus image analysis was published by IEEE T-BME </font> [link](https://ieeexplore.ieee.org/document/8698800){: .btn .btn--info .btn--small}<br>
 [2020/01](#link){: .btn .btn--success .btn--small} <font size="4">
 One paper on weakly action detection was accepted by IEEE T-NNLS </font> [link](https://ieeexplore.ieee.org/document/8967204/){: .btn .btn--info .btn--small}<br>
 [2019/11](#link){: .btn .btn--success .btn--small} <font size="4">Two papers on weakly action detection and fundus image analysis were accepted by AAAI 2020 </font> <br>
