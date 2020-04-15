@@ -12,9 +12,6 @@ permalink: /member/
      <li>价格</li>
      <li>采购量</li>
      <li>总额</li>
-     <li>合同</li>
-     <li>状态</li>
-     <li>操作</li>
    </ul>
 </div>
 <style>
