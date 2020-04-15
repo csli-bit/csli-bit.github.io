@@ -17,5 +17,5 @@ permalink: /member/
 <style>
  .btn {width:1000px; height:45px; background:#fff;}
  .btn ul {width:1000px;height:45px;padding:5px; background:#ccc; line-height:45px;}
- .btn ul li {float:left; width:2255px; line-height:45px;list-style-type:none; text-align:center;border-right:1px #fff solid;}
+ .btn ul li {float:left; width:225px; line-height:45px;list-style-type:none; text-align:center;border-right:1px #fff solid;}
 </style>
